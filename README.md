@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishikumar2004
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning beech 1st yr
+- 🌱 I’m currently learning betech 1st yr
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
